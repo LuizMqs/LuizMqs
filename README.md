@@ -1,14 +1,10 @@
-## Oii, eu sou o Luiz Antônio
+## Olá! Eu sou o Luiz Antônio
 
 <div align="center">
   <a href="https://github.com/LuizMqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMqs&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMqs&layout=compact&theme=dracula"/>
 </div>
-
-
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="LuizMqs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +16,7 @@
   <img align="center" alt="LuizMqs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LuizMqs-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   <img align="center" alt="LuizMqs-Postress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="LuizMqs-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
   ##
