@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/LuizMqs">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizMqs&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMqs&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizMqs&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
